@@ -1,0 +1,51 @@
+{
+  "feature_columns": [
+    "diff_off_eff",
+    "diff_def_eff",
+    "diff_tempo",
+    "diff_efg",
+    "diff_tov",
+    "diff_ftr",
+    "diff_three_rate",
+    "net_strength_gap",
+    "variance_gap"
+  ],
+  "cv_results": [
+    {
+      "model": "log_reg",
+      "roc_auc_mean": 0.7890341520405627,
+      "accuracy_mean": 0.7186155324983744,
+      "log_loss_mean": 0.5374707175370729,
+      "brier_mean": 0.18185052963787016
+    },
+    {
+      "model": "hist_gradient_boosting",
+      "roc_auc_mean": 0.7708466720465388,
+      "accuracy_mean": 0.7032804651644945,
+      "log_loss_mean": 0.5559190090200102,
+      "brier_mean": 0.18939107875548103
+    },
+    {
+      "model": "random_forest",
+      "roc_auc_mean": 0.7686829509885426,
+      "accuracy_mean": 0.7081846710582116,
+      "log_loss_mean": 0.5595079270763017,
+      "brier_mean": 0.1899599317491512
+    }
+  ],
+  "ensemble_metrics": {
+    "roc_auc": 0.7831277772068966,
+    "accuracy": 0.7158637618901503,
+    "log_loss": 0.5423356890928701,
+    "brier": 0.1834576642158486
+  },
+  "round_points": {
+    "1": 10,
+    "2": 20,
+    "3": 40,
+    "4": 80,
+    "5": 160,
+    "6": 320
+  },
+  "n_sims": 50000
+}

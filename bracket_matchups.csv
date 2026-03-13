@@ -1,0 +1,64 @@
+﻿Game_ID,Round,Region,Slot,Team1,Team2,Team1_From,Team2_From,PickPct1,PickPct2
+1,1,East,R64-1,Duke,Howard,,,97%,3%
+2,1,East,R64-2,Utah St.,Iowa,,,60%,40%
+3,1,East,R64-3,Vanderbilt,High Point,,,75%,25%
+4,1,East,R64-4,Kansas,Hofstra,,,82%,18%
+5,1,East,R64-5,North Carolina,UCF,,,64%,36%
+6,1,East,R64-6,Alabama,Troy,,,92%,8%
+7,1,East,R64-7,Villanova,Santa Clara,,,61%,39%
+8,1,East,R64-8,Michigan St.,UMBC,,,96%,5%
+9,1,Midwest,R64-1,Michigan,LIU,,,97%,3%
+10,1,Midwest,R64-2,Ohio St.,Clemson,,,60%,40%
+11,1,Midwest,R64-3,Tennessee,Northern Iowa,,,75%,25%
+12,1,Midwest,R64-4,Texas Tech,Utah Valley,,,82%,18%
+13,1,Midwest,R64-5,Wisconsin,SMU,,,64%,36%
+14,1,Midwest,R64-6,Iowa St.,North Dakota St.,,,92%,8%
+15,1,Midwest,R64-7,Georgia,N.C. State,,,61%,39%
+16,1,Midwest,R64-8,Connecticut,Queens,,,96%,5%
+17,1,South,R64-1,Florida,Southern,,,97%,3%
+18,1,South,R64-2,Miami FL,TCU,,,60%,40%
+19,1,South,R64-3,St. John's,South Florida,,,75%,25%
+20,1,South,R64-4,Purdue,Liberty,,,82%,18%
+21,1,South,R64-5,Louisville,Missouri,,,64%,36%
+22,1,South,R64-6,Nebraska,Wright St.,,,92%,8%
+23,1,South,R64-7,Saint Mary's,Texas,,,61%,39%
+24,1,South,R64-8,Houston,Furman,,,96%,5%
+25,1,West,R64-1,Arizona,Siena,,,97%,3%
+26,1,West,R64-2,UCLA,Texas A&M,,,60%,40%
+27,1,West,R64-3,Arkansas,Yale,,,75%,25%
+28,1,West,R64-4,Virginia,McNeese,,,82%,18%
+29,1,West,R64-5,BYU,Miami OH,,,64%,36%
+30,1,West,R64-6,Gonzaga,UC Irvine,,,92%,8%
+31,1,West,R64-7,Kentucky,Saint Louis,,,61%,39%
+32,1,West,R64-8,Illinois,Tennessee St.,,,96%,5%
+33,2,East,R32-1,,,1,2,,
+34,2,East,R32-2,,,3,4,,
+35,2,East,R32-3,,,5,6,,
+36,2,East,R32-4,,,7,8,,
+37,2,Midwest,R32-1,,,9,10,,
+38,2,Midwest,R32-2,,,11,12,,
+39,2,Midwest,R32-3,,,13,14,,
+40,2,Midwest,R32-4,,,15,16,,
+41,2,South,R32-1,,,17,18,,
+42,2,South,R32-2,,,19,20,,
+43,2,South,R32-3,,,21,22,,
+44,2,South,R32-4,,,23,24,,
+45,2,West,R32-1,,,25,26,,
+46,2,West,R32-2,,,27,28,,
+47,2,West,R32-3,,,29,30,,
+48,2,West,R32-4,,,31,32,,
+49,3,East,S16-1,,,33,34,,
+50,3,East,S16-2,,,35,36,,
+51,3,Midwest,S16-1,,,37,38,,
+52,3,Midwest,S16-2,,,39,40,,
+53,3,South,S16-1,,,41,42,,
+54,3,South,S16-2,,,43,44,,
+55,3,West,S16-1,,,45,46,,
+56,3,West,S16-2,,,47,48,,
+57,4,East,E8-1,,,49,50,,
+58,4,Midwest,E8-1,,,51,52,,
+59,4,South,E8-1,,,53,54,,
+60,4,West,E8-1,,,55,56,,
+61,5,FinalFour,FF-1,,,57,58,,
+62,5,FinalFour,FF-2,,,59,60,,
+63,6,Championship,Title,,,61,62,,
