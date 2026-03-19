@@ -1,0 +1,360 @@
+Game_ID,Winner,Pick_Prob
+1,Duke,0.93554
+1,Howard,0.06446
+10,Clemson,0.57512
+10,Ohio St.,0.42488
+11,Tennessee,0.72144
+11,Northern Iowa,0.27856
+12,Texas Tech,0.8279
+12,Utah Valley,0.1721
+13,SMU,0.52722
+13,Wisconsin,0.47278
+14,Iowa St.,0.92044
+14,North Dakota St.,0.07956
+15,N.C. State,0.59956
+15,Georgia,0.40044
+16,Connecticut,0.90486
+16,Queens,0.09514
+17,Florida,0.91904
+17,Southern,0.08096
+18,TCU,0.60092
+18,Miami FL,0.39908
+19,St. John's,0.63098
+19,South Florida,0.36902
+2,Iowa,0.6202
+2,Utah St.,0.3798
+20,Purdue,0.8619
+20,Liberty,0.1381
+21,Louisville,0.64452
+21,Missouri,0.35548
+22,Nebraska,0.903
+22,Wright St.,0.097
+23,Saint Mary's,0.50416
+23,Texas,0.49584
+24,Houston,0.89044
+24,Furman,0.10956
+25,Arizona,0.94286
+25,Siena,0.05714
+26,Texas A&M,0.5898
+26,UCLA,0.4102
+27,Arkansas,0.6968
+27,Yale,0.3032
+28,Virginia,0.68826
+28,McNeese,0.31174
+29,BYU,0.70334
+29,Miami OH,0.29666
+3,Vanderbilt,0.78096
+3,High Point,0.21904
+30,Gonzaga,0.88468
+30,UC Irvine,0.11532
+31,Saint Louis,0.59316
+31,Kentucky,0.40684
+32,Illinois,0.9268
+32,Tennessee St.,0.0732
+33,Duke,0.7736
+33,Iowa,0.15638
+33,Utah St.,0.06576
+33,Howard,0.00426
+34,Vanderbilt,0.46952
+34,Kansas,0.40268
+34,Hofstra,0.06944
+34,High Point,0.05836
+35,Alabama,0.69946
+35,North Carolina,0.16964
+35,UCF,0.10082
+35,Troy,0.03008
+36,Michigan St.,0.74254
+36,Santa Clara,0.1249
+36,Villanova,0.1228
+36,UMBC,0.00976
+37,Michigan,0.75584
+37,Clemson,0.1518
+37,Ohio St.,0.08944
+37,LIU,0.00292
+38,Texas Tech,0.56632
+38,Tennessee,0.3205
+38,Utah Valley,0.05774
+38,Northern Iowa,0.05544
+39,Iowa St.,0.76364
+39,Wisconsin,0.12134
+39,SMU,0.09542
+39,North Dakota St.,0.0196
+4,Kansas,0.73432
+4,Hofstra,0.26568
+40,Connecticut,0.67766
+40,N.C. State,0.17522
+40,Georgia,0.13162
+40,Queens,0.0155
+41,Florida,0.68806
+41,TCU,0.16334
+41,Miami FL,0.14456
+41,Southern,0.00404
+42,Purdue,0.66714
+42,St. John's,0.2173
+42,South Florida,0.07512
+42,Liberty,0.04044
+43,Nebraska,0.60212
+43,Louisville,0.29598
+43,Missouri,0.0883
+43,Wright St.,0.0136
+44,Houston,0.71494
+44,Saint Mary's,0.14014
+44,Texas,0.13296
+44,Furman,0.01196
+45,Arizona,0.76948
+45,Texas A&M,0.12558
+45,UCLA,0.1026
+45,Siena,0.00234
+46,Virginia,0.43714
+46,Arkansas,0.37962
+46,McNeese,0.11976
+46,Yale,0.06348
+47,Gonzaga,0.67778
+47,BYU,0.2443
+47,Miami OH,0.04352
+47,UC Irvine,0.0344
+48,Illinois,0.80642
+48,Saint Louis,0.0994
+48,Kentucky,0.0842
+48,Tennessee St.,0.00998
+49,Duke,0.6253
+49,Vanderbilt,0.14788
+49,Kansas,0.12258
+49,Iowa,0.0672
+49,Utah St.,0.02094
+49,Hofstra,0.00834
+49,High Point,0.00748
+49,Howard,0.00028
+5,North Carolina,0.54424
+5,UCF,0.45576
+50,Michigan St.,0.51232
+50,Alabama,0.2883
+50,Villanova,0.06868
+50,Santa Clara,0.05862
+50,North Carolina,0.05094
+50,UCF,0.01806
+50,Troy,0.00186
+50,UMBC,0.00122
+51,Michigan,0.5455
+51,Texas Tech,0.19934
+51,Tennessee,0.15814
+51,Clemson,0.0428
+51,Ohio St.,0.0363
+51,Northern Iowa,0.0097
+51,Utah Valley,0.0081
+51,LIU,0.00012
+52,Iowa St.,0.41838
+52,Connecticut,0.3994
+52,N.C. State,0.06476
+52,Georgia,0.05076
+52,Wisconsin,0.03914
+52,SMU,0.0242
+52,Queens,0.00174
+52,North Dakota St.,0.00162
+53,Florida,0.44518
+53,Purdue,0.33984
+53,St. John's,0.10606
+53,Miami FL,0.03854
+53,TCU,0.03782
+53,South Florida,0.02416
+53,Liberty,0.00822
+53,Southern,0.00018
+54,Houston,0.53152
+54,Nebraska,0.18932
+54,Louisville,0.10474
+54,Saint Mary's,0.08376
+54,Texas,0.07068
+54,Missouri,0.01794
+54,Furman,0.00122
+54,Wright St.,0.00082
+55,Arizona,0.60446
+55,Virginia,0.15374
+55,Arkansas,0.13434
+55,Texas A&M,0.04078
+55,UCLA,0.03494
+55,McNeese,0.02038
+55,Yale,0.01126
+55,Siena,0.0001
+56,Illinois,0.5463
+56,Gonzaga,0.28684
+56,BYU,0.06152
+56,Saint Louis,0.05022
+56,Kentucky,0.0453
+56,UC Irvine,0.00472
+56,Miami OH,0.00394
+56,Tennessee St.,0.00116
+57,Duke,0.4901
+57,Michigan St.,0.2142
+57,Alabama,0.09676
+57,Vanderbilt,0.06388
+57,Kansas,0.05032
+57,Iowa,0.02154
+57,Villanova,0.02088
+57,North Carolina,0.01952
+57,Santa Clara,0.01222
+57,Utah St.,0.00536
+57,UCF,0.00346
+57,High Point,0.0008
+57,Hofstra,0.00072
+57,Troy,0.00012
+57,UMBC,0.0001
+57,Howard,2e-05
+58,Michigan,0.3707
+58,Iowa St.,0.2372
+58,Connecticut,0.1876
+58,Texas Tech,0.0706
+58,Tennessee,0.06098
+58,N.C. State,0.01764
+58,Georgia,0.0151
+58,Wisconsin,0.013
+58,Ohio St.,0.00976
+58,Clemson,0.0095
+58,SMU,0.00602
+58,Northern Iowa,0.00094
+58,Utah Valley,0.00068
+58,Queens,0.00018
+58,North Dakota St.,0.0001
+59,Houston,0.3288
+59,Florida,0.2482
+59,Purdue,0.14856
+59,Nebraska,0.0953
+59,Louisville,0.05326
+59,St. John's,0.03816
+59,Saint Mary's,0.03536
+59,Texas,0.02302
+59,Miami FL,0.0098
+59,TCU,0.00872
+59,Missouri,0.00546
+59,South Florida,0.0043
+59,Liberty,0.00076
+59,Furman,0.0002
+59,Wright St.,8e-05
+59,Southern,2e-05
+6,Alabama,0.8798
+6,Troy,0.1202
+60,Arizona,0.39828
+60,Illinois,0.29764
+60,Gonzaga,0.13174
+60,Arkansas,0.05464
+60,Virginia,0.04384
+60,BYU,0.02098
+60,Saint Louis,0.01612
+60,Kentucky,0.01612
+60,Texas A&M,0.008
+60,UCLA,0.00742
+60,McNeese,0.0027
+60,Yale,0.00106
+60,UC Irvine,0.00074
+60,Miami OH,0.00064
+60,Tennessee St.,6e-05
+60,Siena,2e-05
+61,Duke,0.31034
+61,Michigan,0.26852
+61,Iowa St.,0.1164
+61,Connecticut,0.07626
+61,Michigan St.,0.07296
+61,Alabama,0.03268
+61,Tennessee,0.02778
+61,Texas Tech,0.02764
+61,Vanderbilt,0.02014
+61,Kansas,0.0125
+61,N.C. State,0.00444
+61,Iowa,0.0044
+61,Wisconsin,0.00436
+61,Georgia,0.00428
+61,North Carolina,0.00392
+61,Villanova,0.00334
+61,Ohio St.,0.00272
+61,Clemson,0.00258
+61,Santa Clara,0.00198
+61,SMU,0.00112
+61,Utah St.,0.00094
+61,UCF,0.00046
+61,Northern Iowa,0.00012
+61,Utah Valley,8e-05
+61,High Point,4e-05
+62,Arizona,0.29776
+62,Illinois,0.1874
+62,Houston,0.13044
+62,Florida,0.11618
+62,Gonzaga,0.0768
+62,Purdue,0.04668
+62,Nebraska,0.0278
+62,Arkansas,0.02704
+62,Virginia,0.02246
+62,Louisville,0.01284
+62,St. John's,0.0102
+62,BYU,0.00866
+62,Saint Mary's,0.00738
+62,Saint Louis,0.0068
+62,Kentucky,0.00606
+62,Texas,0.00444
+62,Texas A&M,0.00298
+62,UCLA,0.00282
+62,Miami FL,0.0016
+62,TCU,0.00116
+62,Missouri,0.0007
+62,South Florida,0.00058
+62,McNeese,0.0005
+62,Yale,0.0003
+62,Miami OH,0.00016
+62,UC Irvine,0.0001
+62,Liberty,8e-05
+62,Furman,4e-05
+62,Wright St.,2e-05
+62,Tennessee St.,2e-05
+63,Arizona,0.20762
+63,Duke,0.18762
+63,Michigan,0.14076
+63,Illinois,0.09696
+63,Florida,0.07496
+63,Houston,0.06682
+63,Iowa St.,0.0423
+63,Gonzaga,0.03156
+63,Michigan St.,0.02312
+63,Connecticut,0.02158
+63,Purdue,0.01786
+63,Nebraska,0.01164
+63,Alabama,0.0098
+63,Arkansas,0.009
+63,Virginia,0.00826
+63,Texas Tech,0.00704
+63,Tennessee,0.00676
+63,Vanderbilt,0.00608
+63,Louisville,0.00456
+63,St. John's,0.0042
+63,Saint Mary's,0.00294
+63,Kansas,0.00278
+63,BYU,0.0023
+63,Kentucky,0.0019
+63,Saint Louis,0.00162
+63,Texas,0.00116
+63,Wisconsin,0.001
+63,Georgia,0.001
+63,N.C. State,0.00086
+63,Texas A&M,0.00082
+63,UCLA,0.00072
+63,Iowa,0.00066
+63,Villanova,0.00064
+63,Ohio St.,0.00064
+63,North Carolina,0.0005
+63,Miami FL,0.0004
+63,Santa Clara,0.00028
+63,Clemson,0.00026
+63,TCU,0.00022
+63,Utah St.,0.00018
+63,SMU,0.0001
+63,McNeese,0.0001
+63,South Florida,0.0001
+63,UCF,8e-05
+63,Missouri,8e-05
+63,Yale,6e-05
+63,Northern Iowa,6e-05
+63,Miami OH,2e-05
+63,Liberty,2e-05
+7,Villanova,0.50716
+7,Santa Clara,0.49284
+8,Michigan St.,0.92136
+8,UMBC,0.07864
+9,Michigan,0.94598
+9,LIU,0.05402

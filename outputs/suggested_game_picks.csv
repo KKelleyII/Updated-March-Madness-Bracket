@@ -1,64 +1,64 @@
 Game_ID,Winner,Pick_Prob
-1,Duke,0.93554
-10,Clemson,0.57512
-11,Tennessee,0.72144
-12,Texas Tech,0.8279
-13,SMU,0.52722
-14,Iowa St.,0.92044
-15,N.C. State,0.59956
-16,Connecticut,0.90486
-17,Florida,0.91904
-18,TCU,0.60092
-19,St. John's,0.63098
-2,Iowa,0.6202
-20,Purdue,0.8619
-21,Louisville,0.64452
-22,Nebraska,0.903
-23,Saint Mary's,0.50416
-24,Houston,0.89044
-25,Arizona,0.94286
-26,Texas A&M,0.5898
-27,Arkansas,0.6968
-28,Virginia,0.68826
-29,BYU,0.70334
-3,Vanderbilt,0.78096
-30,Gonzaga,0.88468
-31,Saint Louis,0.59316
-32,Illinois,0.9268
-33,Duke,0.7736
-34,Vanderbilt,0.46952
-35,Alabama,0.69946
-36,Michigan St.,0.74254
-37,Michigan,0.75584
-38,Texas Tech,0.56632
-39,Iowa St.,0.76364
-4,Kansas,0.73432
-40,Connecticut,0.67766
-41,Florida,0.68806
-42,Purdue,0.66714
-43,Nebraska,0.60212
-44,Houston,0.71494
-45,Arizona,0.76948
-46,Virginia,0.43714
-47,Gonzaga,0.67778
-48,Illinois,0.80642
-49,Duke,0.6253
-5,North Carolina,0.54424
-50,Michigan St.,0.51232
-51,Michigan,0.5455
-52,Iowa St.,0.41838
-53,Florida,0.44518
-54,Houston,0.53152
-55,Arizona,0.60446
-56,Illinois,0.5463
-57,Duke,0.4901
-58,Michigan,0.3707
-59,Houston,0.3288
-6,Alabama,0.8798
-60,Arizona,0.39828
-61,Duke,0.31034
-62,Arizona,0.29776
-63,Arizona,0.20762
-7,Villanova,0.50716
-8,Michigan St.,0.92136
-9,Michigan,0.94598
+1,Duke,0.94604
+10,Utah St.,0.64586
+11,Wisconsin,0.66352
+12,Arkansas,0.8414
+13,Texas,0.63636
+14,Gonzaga,0.92296
+15,Miami FL,0.53066
+16,Purdue,0.91814
+17,Florida,0.94232
+18,Iowa,0.64474
+19,Vanderbilt,0.70364
+2,TCU,0.54026
+20,Nebraska,0.9123
+21,VCU,0.50256
+22,Illinois,0.90846
+23,Texas A&M,0.56926
+24,Houston,0.9006
+25,Michigan,0.9351
+26,Saint Louis,0.61042
+27,Texas Tech,0.72212
+28,Alabama,0.78578
+29,Tennessee,0.66798
+3,St. John's,0.65464
+30,Virginia,0.89984
+31,Kentucky,0.52812
+32,Iowa St.,0.93014
+33,Duke,0.82628
+34,Kansas,0.56472
+35,Michigan St.,0.7049
+36,Connecticut,0.73212
+37,Arizona,0.75634
+38,Arkansas,0.66744
+39,Gonzaga,0.66696
+4,Kansas,0.80194
+40,Purdue,0.7709
+41,Florida,0.6162
+42,Nebraska,0.61076
+43,Illinois,0.7863
+44,Houston,0.73766
+45,Michigan,0.76448
+46,Alabama,0.56866
+47,Virginia,0.62258
+48,Iowa St.,0.76552
+49,Duke,0.64164
+5,Louisville,0.63088
+50,Connecticut,0.44884
+51,Arizona,0.60282
+52,Purdue,0.51952
+53,Florida,0.40262
+54,Houston,0.4554
+55,Michigan,0.61684
+56,Iowa St.,0.56308
+57,Duke,0.50598
+58,Arizona,0.41908
+59,Houston,0.3097
+6,Michigan St.,0.91548
+60,Michigan,0.39242
+61,Duke,0.32724
+62,Michigan,0.30092
+63,Michigan,0.21492
+7,UCF,0.51928
+8,Connecticut,0.90914
+9,Arizona,0.94104
